@@ -1,7 +1,7 @@
 
 ## OpenShift Reference Storage and backup Solution for IBM Cloud
 ### -Dwarkanath P Rao
-### Architecture Guild
+
 ### Table of Content
 ******************************************************************************************************************************
 
@@ -18,8 +18,7 @@
 
 [1.2.1. GlusterFS 4](#glusterfs)
 
-[1.2.2. Ceph as File on Endurance storage
-5](#ceph-as-file-on-endurance-storage)
+[1.2.2. Ceph as File on Endurance storage5](#ceph-as-file-on-endurance-storage)
 
 [1.3. IBM Object Storage or Minio Storage( Dedicated on Cloud\|).
 5](#ibm-object-storage-or-minio-storage-dedicated-on-cloud.)
